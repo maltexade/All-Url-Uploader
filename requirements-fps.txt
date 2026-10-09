@@ -1,0 +1,13 @@
+# All-Url-Uploader Requirements for fps.ms
+# fps.ms will install these automatically
+
+aiohttp>=3.8.0
+hachoir>=3.0.0
+Pillow>=9.0.0
+pyrogram>=2.0.0
+tgcrypto>=1.2.0
+requests>=2.28.0
+python-dotenv>=0.20.0
+yt-dlp>=2023.0.0
+wget>=3.2
+youtube_dl>=2021.12.17
